@@ -16,9 +16,10 @@ const questions = [
     name: 'license',
     message: 'Apply License',
     choices: [
-        "License 1",
-        "License 2",
-        "License 3",
+        "None",
+        "Apache 2.0",
+        "GPL",
+        "MIT",
     ],
 },
 {
