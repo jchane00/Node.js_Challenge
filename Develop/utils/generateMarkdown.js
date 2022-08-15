@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
   }
   return licenseBadge;
 }
-  };
+};
  
 
 // TODO: Create a function that returns the license link

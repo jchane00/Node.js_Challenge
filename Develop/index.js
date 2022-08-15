@@ -39,8 +39,8 @@ const questions = [
 },
 {
     type:'input',
-    name:'usage'
-    message:'What problem does this project solve?',
+    name:'usage',
+    message:'What problem does this project solve?'
 },
 {
     type: 'input',
