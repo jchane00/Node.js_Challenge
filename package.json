@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_challenge",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/fullt -stack/github/professional-readme-guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchane00/Node.js_Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchane00/Node.js_Challenge/issues"
+  },
+  "homepage": "https://github.com/jchane00/Node.js_Challenge#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
