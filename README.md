@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1Nl8tCJB4N38911mNImW9kbaeMr2dMLYO/view?usp=shari
 
 
 ## Table of Contents:
--[Name] (#name)
+-[Name](#name)
 -[Description](#description)
 -[Installation](#installation)
 -[Usage](#usage)
