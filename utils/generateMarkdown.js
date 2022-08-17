@@ -52,7 +52,7 @@ ${answers.description}
 
 
 ## Table of Contents:
--[Name] (#name)
+-[Name](#name)
 -[Description](#description)
 -[Installation](#installation)
 -[Usage](#usage)
